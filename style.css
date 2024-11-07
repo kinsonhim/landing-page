@@ -40,8 +40,8 @@ button {
 .info {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    width: 20px;
+    justify-content: space-evenly;
+    width: 100px;
 }
+
+.info
